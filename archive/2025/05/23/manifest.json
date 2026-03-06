@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "filename": "source-001.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1375654557497032764/trains-2025-5-23.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1375654557497032764/trains-2025-5-23.json?ex=69ab86a4&is=69aa3524&hm=d81dfe0beb2cac1bf9de9e83ebfac5d6a09df213a35d8502bbbe1796bbfb0c29&",
+      "downloaded_at": "2026-03-06T09:58:32+00:00",
+      "sha256": "d9172fa7b69bb1db096f44ad97954a2eb0e4773557b2be1928ec1591f61ef706",
+      "size_bytes": 2935421
+    },
+    {
+      "filename": "source-002.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1375654551784390758/trains-2025-5-23.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1375654551784390758/trains-2025-5-23.json?ex=69ab86a3&is=69aa3523&hm=8e7ded1712986c296fdb460a71918d3475ea4e1d4970a03b4605075f1333e7e2&",
+      "downloaded_at": "2026-03-06T09:58:32+00:00",
+      "sha256": "f10f620e69a436131514e341f6d97c6c2ebc5c9f76e89caa65f04ebc93f1fbe0",
+      "size_bytes": 6209568
+    }
+  ],
+  "date": "2025-5-23",
+  "source_count": 2,
+  "archived_count": 2,
+  "updated_at": "2026-03-06T10:14:07+00:00"
+}

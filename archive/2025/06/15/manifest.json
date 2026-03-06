@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "filename": "source-001.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1383989466917769276/trains-2025-6-15.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1383989466917769276/trains-2025-6-15.json?ex=69ab86a2&is=69aa3522&hm=65e63bd803072bee0b30b5558810ac1653831ec59dbb166e191c4e141d744c4a&",
+      "downloaded_at": "2026-03-06T09:59:00+00:00",
+      "sha256": "b637b1673ca768c9da89fc8debaa730be173546281402d38c05bd2e219fa811f",
+      "size_bytes": 2601517
+    },
+    {
+      "filename": "source-002.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1383823931454001202/trains-2025-6-15.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1383823931454001202/trains-2025-6-15.json?ex=69ab9537&is=69aa43b7&hm=a46f873bab85150fe3330e5c93ab094db4e7c40f3de2c2370dc6ef2434780998&",
+      "downloaded_at": "2026-03-06T09:59:00+00:00",
+      "sha256": "b3b746b77c9714b556b9ffec8bd840a54d5f6993ce90c07ca778b01567242b83",
+      "size_bytes": 37232
+    },
+    {
+      "filename": "source-003.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1383822129119625236/trains-2025-6-15.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1383822129119625236/trains-2025-6-15.json?ex=69ab9389&is=69aa4209&hm=91677eebfa46d492858f690e3d2dbcbf0fbaead913b0185b4197fe3709cd6e60&",
+      "downloaded_at": "2026-03-06T09:59:01+00:00",
+      "sha256": "c1fea329829e695e356218420d2d949198d7b609c8fc160982bb9b7a84580cbe",
+      "size_bytes": 390113
+    },
+    {
+      "filename": "source-004.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1383816353885982800/trains-2025-6-15.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1383816353885982800/trains-2025-6-15.json?ex=69ab8e28&is=69aa3ca8&hm=0acc4b81fcaa4a55ae1bcb9398650ef3702d995a5b3bcc600127d7e5d7128d1d&",
+      "downloaded_at": "2026-03-06T09:59:02+00:00",
+      "sha256": "fe18f6b05d0f3e5df6cbf7f3edfc509ad92116800b5ebfd0482c7ee0a1484fc6",
+      "size_bytes": 4155115
+    }
+  ],
+  "date": "2025-6-15",
+  "source_count": 4,
+  "archived_count": 4,
+  "updated_at": "2026-03-06T10:14:07+00:00"
+}
