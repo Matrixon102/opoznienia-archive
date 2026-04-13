@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "filename": "source-001.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1332175558481678428/trains-2025-1-23.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1332175558481678428/trains-2025-1-23.json?ex=69dda6ab&is=69dc552b&hm=e64711cdf1c3182fe529d323fedc92afdfb39d4d7562370af6aeb0bd2685f141&",
+      "downloaded_at": "2026-04-13T05:59:24+00:00",
+      "sha256": "468fe60c2d89cd4500da61b0c4bb84df1833efa93ec3d01eafb714e1c6111eb7",
+      "size_bytes": 8738901
+    }
+  ],
+  "date": "2025-1-23",
+  "source_count": 1,
+  "archived_count": 1,
+  "updated_at": "2026-04-13T05:59:24+00:00"
+}

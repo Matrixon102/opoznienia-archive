@@ -7,10 +7,18 @@
       "downloaded_at": "2026-03-06T09:54:14+00:00",
       "sha256": "4b9977bb01ce222c32c3dea4565f6aaa12718861e7522928d4f4c88f815e8423",
       "size_bytes": 5406456
+    },
+    {
+      "filename": "source-002.json",
+      "canonical_source": "https://cdn.discordapp.com/attachments/1305975386533793922/1316693295249756210/trains-2024-12-12.json",
+      "source_url": "https://cdn.discordapp.com/attachments/1305975386533793922/1316693295249756210/trains-2024-12-12.json?ex=69dd5b70&is=69dc09f0&hm=dcfde2d20e1547f16dc28365f32c40299819ef3b066640537d9ab542d4b00a63&",
+      "downloaded_at": "2026-04-13T05:59:11+00:00",
+      "sha256": "de3c841c6b06c6805abb1f8b2ccebd5c27fe52b1d7d83c0af05388b6fd21e05f",
+      "size_bytes": 2728347
     }
   ],
   "date": "2024-12-12",
-  "source_count": 1,
-  "archived_count": 1,
-  "updated_at": "2026-03-06T09:54:14+00:00"
+  "source_count": 2,
+  "archived_count": 2,
+  "updated_at": "2026-04-13T05:59:11+00:00"
 }
